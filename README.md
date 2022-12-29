@@ -2,7 +2,7 @@
 # REDTEAM
 ## Nuevo UAC-GUI-BYPASS con appverif.exe
 
-Existen multitud de UAC-GUI-BYPASSES y este es otro más que termino de encontrar.
+Existen multitud de UAC-GUI-BYPASSES y este es otro más que termino de encontrar. La app se encuentra incluida en el Windows Software Development Kit (SDK). Mas info de la app: https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/application-verifier
 
 Es exactamente el mismo UAC-GUI-BYPASS que el de la aplicación azman.msc. Espero que os sirva:
 
